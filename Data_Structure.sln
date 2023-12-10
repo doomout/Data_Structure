@@ -14,6 +14,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "EX_01\Binar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinearSearch", "EX_01\LinearSearch\LinearSearch.vcxproj", "{12CA2205-D9DD-4696-AF38-F02517741044}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BSWorstOpCount", "EX_01\BSWorstOpCount\BSWorstOpCount.vcxproj", "{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -38,6 +40,14 @@ Global
 		{12CA2205-D9DD-4696-AF38-F02517741044}.Release|x64.Build.0 = Release|x64
 		{12CA2205-D9DD-4696-AF38-F02517741044}.Release|x86.ActiveCfg = Release|Win32
 		{12CA2205-D9DD-4696-AF38-F02517741044}.Release|x86.Build.0 = Release|Win32
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Debug|x64.ActiveCfg = Debug|x64
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Debug|x64.Build.0 = Debug|x64
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Debug|x86.Build.0 = Debug|Win32
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Release|x64.ActiveCfg = Release|x64
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Release|x64.Build.0 = Release|x64
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Release|x86.ActiveCfg = Release|Win32
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +55,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{12665415-F124-4C3F-A91E-E3DA31BE469B} = {39266DB7-8379-4E78-8C50-BB277F2FFC5C}
 		{12CA2205-D9DD-4696-AF38-F02517741044} = {39266DB7-8379-4E78-8C50-BB277F2FFC5C}
+		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33} = {39266DB7-8379-4E78-8C50-BB277F2FFC5C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3300D9C9-85B3-4CB1-8216-AC35F7239814}
