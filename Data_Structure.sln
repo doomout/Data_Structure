@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EX_02", "EX_02", "{B0D789F3
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-1.RecursiveFunc", "EX_02\2-1.RecursiveFunc\2-1.RecursiveFunc.vcxproj", "{A0B7FF41-C4E7-4CA9-9C92-25F9FF418142}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-2.RecursiveFactorial", "EX_02\2-2.RecursiveFactorial\2-2.RecursiveFactorial.vcxproj", "{45CEA328-637F-4925-B96C-F1F64D9DA041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -60,6 +62,14 @@ Global
 		{A0B7FF41-C4E7-4CA9-9C92-25F9FF418142}.Release|x64.Build.0 = Release|x64
 		{A0B7FF41-C4E7-4CA9-9C92-25F9FF418142}.Release|x86.ActiveCfg = Release|Win32
 		{A0B7FF41-C4E7-4CA9-9C92-25F9FF418142}.Release|x86.Build.0 = Release|Win32
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Debug|x64.ActiveCfg = Debug|x64
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Debug|x64.Build.0 = Debug|x64
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Debug|x86.ActiveCfg = Debug|Win32
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Debug|x86.Build.0 = Debug|Win32
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Release|x64.ActiveCfg = Release|x64
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Release|x64.Build.0 = Release|x64
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Release|x86.ActiveCfg = Release|Win32
+		{45CEA328-637F-4925-B96C-F1F64D9DA041}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +79,7 @@ Global
 		{12CA2205-D9DD-4696-AF38-F02517741044} = {39266DB7-8379-4E78-8C50-BB277F2FFC5C}
 		{1C5C88EB-3AF2-4AE7-BECC-BBC12F8EAC33} = {39266DB7-8379-4E78-8C50-BB277F2FFC5C}
 		{A0B7FF41-C4E7-4CA9-9C92-25F9FF418142} = {B0D789F3-25DA-416E-9315-E3D0C3A09A5D}
+		{45CEA328-637F-4925-B96C-F1F64D9DA041} = {B0D789F3-25DA-416E-9315-E3D0C3A09A5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3300D9C9-85B3-4CB1-8216-AC35F7239814}
